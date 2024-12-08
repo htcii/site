@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://htcii.github.io/site/sitemap.xml
