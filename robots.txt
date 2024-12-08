@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://htcii.github.io/site/sitemap.xml
+Sitemap: https://site.htrii.com/sitemap.xml
